@@ -28,9 +28,7 @@
                 android:textColor="#616161"
                 android:textSize="14sp" />
 
-
             <TextView
-
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_marginBottom="8sp"
@@ -44,7 +42,6 @@
                 android:layout_marginBottom="8sp"
                 android:gravity="center"
                 android:text="0" />
-
 
             <TextView
                 android:text="Games"
@@ -175,7 +172,6 @@
                 android:text="Game Score"
                 android:textColor="#000000"
                 android:textSize="20sp"/>
-
 
             <TextView
                 android:id="@+id/team_b_score"
